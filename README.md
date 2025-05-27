@@ -1,0 +1,1 @@
+this project explains about banking system application for user like withdawing,transfers and balances.project title banking app,it explains how ow to create account,check balance,transfer money.Run the program the Main.java in the Visual Studio Code.
